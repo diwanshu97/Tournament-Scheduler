@@ -1,0 +1,180 @@
+######################################################################
+GREEDY - DOUBLE ROUND ROBIN - 4 TEAMS - FarAway
+######################################################################
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+
+Final Status: OPTIMAL
+
+Number of Teams: 4
+Greedy based Optimal Solution:
+****************************************
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TOURNAMENT SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Day 1: 
+	 Team New York is at Madison
+Day 2: 
+	 Team Madison is at Los Angeles
+Day 4: 
+	 Team Madison is at New York
+Day 5: 
+	 Team New York is at Los Angeles
+Day 6: 
+	 Team Los Angeles is at Madison
+Day 7: 
+	 Team Austin is at New York
+Day 8: 
+	 Team Los Angeles is at New York
+Day 9: 
+	 Team Madison is at Austin
+Day 11: 
+	 Team Austin is at Madison
+Day 12: 
+	 Team New York is at Austin
+Day 13: 
+	 Team Los Angeles is at Austin
+Day 15: 
+	 Team Austin is at Los Angeles
+****************************************
+Total Cost = $1407666.69
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TEAMWISE SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Team Madison
+------------
+Day 1
+------------
+Stays at Madison
+------------
+Day 2
+------------
+Travels from Madison to Los Angeles
+Cost Incurred: 81000.00
+------------
+Day 4
+------------
+Travels from Los Angeles to New York
+Cost Incurred: 102333.33
+------------
+Day 6
+------------
+Travels from New York to Madison
+Cost Incurred: 190000.00
+------------
+Day 9
+------------
+Travels from Madison to Austin
+Cost Incurred: 88333.34
+------------
+Day 11
+------------
+Travels from Austin to Madison
+Cost Incurred: 153333.33
+----------------------------------------
+Total Cost = $271666.67
+****************************************
+Team Los Angeles
+------------
+Day 2
+------------
+Stays at Los Angeles
+------------
+Day 5
+------------
+Stays at Los Angeles
+------------
+Day 6
+------------
+Travels from Los Angeles to Madison
+Cost Incurred: 190000.00
+------------
+Day 8
+------------
+Travels from Madison to New York
+Cost Incurred: 39333.33
+------------
+Day 13
+------------
+Travels from New York to Austin
+Cost Incurred: 176666.67
+------------
+Day 15
+------------
+Travels from Austin to Los Angeles
+Cost Incurred: 123333.34
+----------------------------------------
+Total Cost = $406000.00
+****************************************
+Team Austin
+------------
+Day 7
+------------
+Travels from Austin to New York
+Cost Incurred: 68000.00
+------------
+Day 9
+------------
+Travels from New York to Austin
+Cost Incurred: 88333.34
+------------
+Day 11
+------------
+Travels from Austin to Madison
+Cost Incurred: 153333.33
+------------
+Day 12
+------------
+Travels from Madison to Austin
+Cost Incurred: 175000.00
+------------
+Day 13
+------------
+Stays at Austin
+------------
+Day 15
+------------
+Travels from Austin to Los Angeles
+Cost Incurred: 123333.34
+----------------------------------------
+Total Cost = $344666.68
+****************************************
+Team New York
+------------
+Day 1
+------------
+Travels from New York to Madison
+Cost Incurred: 86000.00
+------------
+Day 4
+------------
+Travels from Madison to New York
+Cost Incurred: 102333.33
+------------
+Day 5
+------------
+Travels from New York to Los Angeles
+Cost Incurred: 124333.34
+------------
+Day 7
+------------
+Travels from Los Angeles to New York
+Cost Incurred: 68000.00
+------------
+Day 8
+------------
+Stays at New York
+------------
+Day 12
+------------
+Travels from New York to Austin
+Cost Incurred: 175000.00
+----------------------------------------
+Total Cost = $385333.34
+****************************************
+Total Tournament Cost = $1407666.69

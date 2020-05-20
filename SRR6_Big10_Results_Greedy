@@ -1,0 +1,220 @@
+######################################################################
+GREEDY - SINGLE ROUND ROBIN - 6 TEAMS - BIG10
+######################################################################
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+
+Final Status: OPTIMAL
+
+Number of Teams: 6
+Greedy based Optimal Solution:
+****************************************
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TOURNAMENT SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Day 1: 
+	 Team Maryland is at Michigan St.
+Day 2: 
+	 Team Illinois is at Indiana
+Day 3: 
+	 Team Michigan is at Iowa
+Day 4: 
+	 Team Illinois is at Iowa
+Day 5: 
+	 Team Indiana is at Michigan
+Day 6: 
+	 Team Illinois is at Maryland
+Day 7: 
+	 Team Michigan St. is at Indiana
+Day 8: 
+	 Team Illinois is at Michigan
+Day 9: 
+	 Team Iowa is at Maryland
+Day 10: 
+	 Team Illinois is at Michigan St.
+Day 11: 
+	 Team Michigan St. is at Michigan
+Day 12: 
+	 Team Michigan St. is at Iowa
+Day 13: 
+	 Team Indiana is at Iowa
+Day 14: 
+	 Team Maryland is at Michigan
+Day 16: 
+	 Team Maryland is at Indiana
+****************************************
+Total Cost = $354666.67
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TEAMWISE SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Team Illinois
+------------
+Day 2
+------------
+Travels from Illinois to Indiana
+Cost Incurred: 13333.33
+------------
+Day 4
+------------
+Travels from Indiana to Iowa
+Cost Incurred: 22666.67
+------------
+Day 6
+------------
+Travels from Iowa to Maryland
+Cost Incurred: 38333.33
+------------
+Day 8
+------------
+Travels from Maryland to Michigan
+Cost Incurred: 28000.00
+------------
+Day 10
+------------
+Travels from Michigan to Michigan St.
+Cost Incurred: 10333.33
+----------------------------------------
+Total Cost = $112666.67
+****************************************
+Team Indiana
+------------
+Day 2
+------------
+Stays at Indiana
+------------
+Day 5
+------------
+Travels from Indiana to Michigan
+Cost Incurred: 20000.00
+------------
+Day 7
+------------
+Travels from Michigan to Indiana
+Cost Incurred: 20333.34
+------------
+Day 13
+------------
+Travels from Indiana to Iowa
+Cost Incurred: 22666.67
+------------
+Day 16
+------------
+Travels from Iowa to Indiana
+Cost Incurred: 20000.00
+----------------------------------------
+Total Cost = $42666.67
+****************************************
+Team Iowa
+------------
+Day 3
+------------
+Stays at Iowa
+------------
+Day 4
+------------
+Stays at Iowa
+------------
+Day 9
+------------
+Travels from Iowa to Maryland
+Cost Incurred: 38333.33
+------------
+Day 12
+------------
+Travels from Maryland to Iowa
+Cost Incurred: 25000.00
+------------
+Day 13
+------------
+Stays at Iowa
+----------------------------------------
+Total Cost = $38333.33
+****************************************
+Team Maryland
+------------
+Day 1
+------------
+Travels from Maryland to Michigan St.
+Cost Incurred: 30333.33
+------------
+Day 6
+------------
+Travels from Michigan St. to Maryland
+Cost Incurred: 38333.33
+------------
+Day 9
+------------
+Stays at Maryland
+------------
+Day 14
+------------
+Travels from Maryland to Michigan
+Cost Incurred: 28000.00
+------------
+Day 16
+------------
+Travels from Michigan to Indiana
+Cost Incurred: 20000.00
+----------------------------------------
+Total Cost = $78333.33
+****************************************
+Team Michigan
+------------
+Day 3
+------------
+Travels from Michigan to Iowa
+Cost Incurred: 27000.00
+------------
+Day 5
+------------
+Travels from Iowa to Michigan
+Cost Incurred: 20000.00
+------------
+Day 8
+------------
+Stays at Michigan
+------------
+Day 11
+------------
+Stays at Michigan
+------------
+Day 14
+------------
+Stays at Michigan
+----------------------------------------
+Total Cost = $27000.00
+****************************************
+Team Michigan St.
+------------
+Day 1
+------------
+Stays at Michigan St.
+------------
+Day 7
+------------
+Travels from Michigan St. to Indiana
+Cost Incurred: 20333.34
+------------
+Day 10
+------------
+Travels from Indiana to Michigan St.
+Cost Incurred: 10333.33
+------------
+Day 11
+------------
+Travels from Michigan St. to Michigan
+Cost Incurred: 10333.33
+------------
+Day 12
+------------
+Travels from Michigan to Iowa
+Cost Incurred: 25000.00
+----------------------------------------
+Total Cost = $55666.67
+****************************************
+Total Tournament Cost = $354666.67

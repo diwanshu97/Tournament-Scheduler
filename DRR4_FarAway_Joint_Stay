@@ -1,0 +1,396 @@
+######################################################################
+DOUBLE ROUND ROBIN
+######################################################################
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+ 14.631943 seconds (126.61 k allocations: 6.857 MiB)
+
+Final Status: OPTIMAL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TOURNAMENT SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+****************************************
+Day 1| Daily Cost: $39333.33
+----------------------------------------
+Team Madison is at New York
+Team Los Angeles is at Los Angeles
+Team Austin is at Austin
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: New York
+Away team: Madison
+----------------------------------------
+Day 2| Daily Cost: $144666.67
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Austin
+Team Austin is at Austin
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Austin
+Away team: Los Angeles
+----------------------------------------
+Day 3| Daily Cost: $148333.33
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Los Angeles
+Team Austin is at Austin
+Team New York is at Austin
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Austin
+Away team: New York
+----------------------------------------
+Day 4| Daily Cost: $61666.67
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Los Angeles
+Team Austin is at Austin
+Team New York is at Los Angeles
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Los Angeles
+Away team: New York
+----------------------------------------
+Day 5| Daily Cost: $179000.00
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Los Angeles
+Team Austin is at Madison
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Madison
+Away team: Austin
+----------------------------------------
+Day 6| Daily Cost: $39333.33
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Los Angeles
+Team Austin is at New York
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: New York
+Away team: Austin
+----------------------------------------
+Day 7| Daily Cost: $167666.67
+----------------------------------------
+Team Madison is at Los Angeles
+Team Los Angeles is at Los Angeles
+Team Austin is at Austin
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Los Angeles
+Away team: Madison
+----------------------------------------
+Day 8| Daily Cost: $58666.67
+----------------------------------------
+Team Madison is at Austin
+Team Los Angeles is at Los Angeles
+Team Austin is at Austin
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Austin
+Away team: Madison
+----------------------------------------
+Day 9| Daily Cost: $138333.33
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Los Angeles
+Team Austin is at Los Angeles
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Los Angeles
+Away team: Austin
+----------------------------------------
+Day 10| Daily Cost: $144666.67
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Los Angeles
+Team Austin is at Austin
+Team New York is at Madison
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Madison
+Away team: New York
+----------------------------------------
+Day 11| Daily Cost: $143333.33
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at Madison
+Team Austin is at Austin
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Madison
+Away team: Los Angeles
+----------------------------------------
+Day 12| Daily Cost: $39333.33
+----------------------------------------
+Team Madison is at Madison
+Team Los Angeles is at New York
+Team Austin is at Austin
+Team New York is at New York
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: New York
+Away team: Los Angeles
+----------------------------------------
+++++++++++++++++++++++++++++++
+Total Cost = $1304333.33
+++++++++++++++++++++++++++++++
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TEAMWISE SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+***********************************
+Team Madison
+***********************************
+Day 1 [Match Day!]
+~~~~
+Travels from Madison to New York
+Cost incurred: $39333.33
+----------------------------------
+Day 2
+~~~~
+Travels from New York to Madison
+Cost incurred: $86000.00
+----------------------------------
+Day 3
+~~~~
+Stays at Madison
+----------------------------------
+Day 4
+~~~~
+Stays at Madison
+----------------------------------
+Day 5 [Match Day!]
+~~~~
+Stays at Madison
+----------------------------------
+Day 6
+~~~~
+Stays at Madison
+----------------------------------
+Day 7 [Match Day!]
+~~~~
+Travels from Madison to Los Angeles
+Cost incurred: $81000.00
+----------------------------------
+Day 8 [Match Day!]
+~~~~
+Travels from Los Angeles to Austin
+Cost incurred: $58666.67
+----------------------------------
+Day 9
+~~~~
+Travels from Austin to Madison
+Cost incurred: $76666.67
+----------------------------------
+Day 10 [Match Day!]
+~~~~
+Stays at Madison
+----------------------------------
+Day 11 [Match Day!]
+~~~~
+Stays at Madison
+----------------------------------
+Day 12
+~~~~
+Stays at Madison
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $359675.67
+++++++++++++++++++++++++++++++
+
+***********************************
+Team Los Angeles
+***********************************
+Day 1
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 2 [Match Day!]
+~~~~
+Travels from Los Angeles to Austin
+Cost incurred: $58666.67
+----------------------------------
+Day 3
+~~~~
+Travels from Austin to Los Angeles
+Cost incurred: $61666.67
+----------------------------------
+Day 4 [Match Day!]
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 5
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 6
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 7 [Match Day!]
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 8
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 9 [Match Day!]
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 10
+~~~~
+Stays at Los Angeles
+----------------------------------
+Day 11 [Match Day!]
+~~~~
+Travels from Los Angeles to Madison
+Cost incurred: $104000.00
+----------------------------------
+Day 12 [Match Day!]
+~~~~
+Travels from Madison to New York
+Cost incurred: $39333.33
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $276725.67
+++++++++++++++++++++++++++++++
+
+***********************************
+Team Austin
+***********************************
+Day 1
+~~~~
+Stays at Austin
+----------------------------------
+Day 2 [Match Day!]
+~~~~
+Stays at Austin
+----------------------------------
+Day 3 [Match Day!]
+~~~~
+Stays at Austin
+----------------------------------
+Day 4
+~~~~
+Stays at Austin
+----------------------------------
+Day 5 [Match Day!]
+~~~~
+Travels from Austin to Madison
+Cost incurred: $76666.67
+----------------------------------
+Day 6 [Match Day!]
+~~~~
+Travels from Madison to New York
+Cost incurred: $39333.33
+----------------------------------
+Day 7
+~~~~
+Travels from New York to Austin
+Cost incurred: $86666.67
+----------------------------------
+Day 8 [Match Day!]
+~~~~
+Stays at Austin
+----------------------------------
+Day 9 [Match Day!]
+~~~~
+Travels from Austin to Los Angeles
+Cost incurred: $61666.67
+----------------------------------
+Day 10
+~~~~
+Travels from Los Angeles to Austin
+Cost incurred: $58666.67
+----------------------------------
+Day 11
+~~~~
+Stays at Austin
+----------------------------------
+Day 12
+~~~~
+Stays at Austin
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $338159.00
+++++++++++++++++++++++++++++++
+
+***********************************
+Team New York
+***********************************
+Day 1 [Match Day!]
+~~~~
+Stays at New York
+----------------------------------
+Day 2
+~~~~
+Stays at New York
+----------------------------------
+Day 3 [Match Day!]
+~~~~
+Travels from New York to Austin
+Cost incurred: $86666.67
+----------------------------------
+Day 4 [Match Day!]
+~~~~
+Travels from Austin to Los Angeles
+Cost incurred: $61666.67
+----------------------------------
+Day 5
+~~~~
+Travels from Los Angeles to New York
+Cost incurred: $102333.33
+----------------------------------
+Day 6 [Match Day!]
+~~~~
+Stays at New York
+----------------------------------
+Day 7
+~~~~
+Stays at New York
+----------------------------------
+Day 8
+~~~~
+Stays at New York
+----------------------------------
+Day 9
+~~~~
+Stays at New York
+----------------------------------
+Day 10 [Match Day!]
+~~~~
+Travels from New York to Madison
+Cost incurred: $86000.00
+----------------------------------
+Day 11
+~~~~
+Travels from Madison to New York
+Cost incurred: $39333.33
+----------------------------------
+Day 12 [Match Day!]
+~~~~
+Stays at New York
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $390559.00
+++++++++++++++++++++++++++++++
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Total Tournament Cost = $1365119.33
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

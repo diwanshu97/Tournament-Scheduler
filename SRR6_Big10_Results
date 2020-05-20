@@ -1,0 +1,638 @@
+######################################################################
+SINGLE ROUND ROBIN
+######################################################################
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+30769.287479 seconds (378.65 k allocations: 20.400 MiB)
+
+Final Status: OPTIMAL
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TOURNAMENT SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+****************************************
+Day 1| Daily Cost: $55666.67
+----------------------------------------
+Team Illinois is at Illinois
+Team Indiana is at Indiana
+Team Iowa is at Illinois
+Team Maryland is at Michigan
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan
+Away team: Maryland
+----------------------------------------
+Day 2| Daily Cost: $10333.33
+----------------------------------------
+Team Illinois is at Illinois
+Team Indiana is at Indiana
+Team Iowa is at Illinois
+Team Maryland is at Michigan St.
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Illinois
+Away team: Iowa
+----------------------------------------
+Day 3| Daily Cost: $0.00
+----------------------------------------
+Team Illinois is at Illinois
+Team Indiana is at Indiana
+Team Iowa is at Illinois
+Team Maryland is at Michigan St.
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan
+Away team: Michigan St.
+----------------------------------------
+Day 4| Daily Cost: $10333.33
+----------------------------------------
+Team Illinois is at Illinois
+Team Indiana is at Indiana
+Team Iowa is at Illinois
+Team Maryland is at Michigan St.
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan St.
+Away team: Maryland
+----------------------------------------
+Day 5| Daily Cost: $20333.33
+----------------------------------------
+Team Illinois is at Illinois
+Team Indiana is at Indiana
+Team Iowa is at Illinois
+Team Maryland is at Illinois
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Illinois
+Away team: Maryland
+----------------------------------------
+Day 6| Daily Cost: $13333.33
+----------------------------------------
+Team Illinois is at Illinois
+Team Indiana is at Indiana
+Team Iowa is at Indiana
+Team Maryland is at Illinois
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Indiana
+Away team: Iowa
+----------------------------------------
+Day 7| Daily Cost: $33333.33
+----------------------------------------
+Team Illinois is at Indiana
+Team Indiana is at Indiana
+Team Iowa is at Michigan
+Team Maryland is at Illinois
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Indiana
+Away team: Illinois
+----------------------------------------
+Day 8| Daily Cost: $20000.00
+----------------------------------------
+Team Illinois is at Michigan
+Team Indiana is at Indiana
+Team Iowa is at Michigan
+Team Maryland is at Illinois
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan
+Away team: Illinois
+----------------------------------------
+Day 9| Daily Cost: $10333.33
+----------------------------------------
+Team Illinois is at Michigan St.
+Team Indiana is at Indiana
+Team Iowa is at Michigan
+Team Maryland is at Illinois
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan
+Away team: Iowa
+----------------------------------------
+Day 10| Daily Cost: $0.00
+----------------------------------------
+Team Illinois is at Michigan St.
+Team Indiana is at Indiana
+Team Iowa is at Michigan
+Team Maryland is at Illinois
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan St.
+Away team: Illinois
+----------------------------------------
+Day 11| Daily Cost: $10333.33
+----------------------------------------
+Team Illinois is at Michigan St.
+Team Indiana is at Indiana
+Team Iowa is at Michigan St.
+Team Maryland is at Illinois
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan St.
+Away team: Iowa
+----------------------------------------
+Day 12| Daily Cost: $13333.33
+----------------------------------------
+Team Illinois is at Michigan St.
+Team Indiana is at Indiana
+Team Iowa is at Michigan St.
+Team Maryland is at Indiana
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Indiana
+Away team: Maryland
+----------------------------------------
+Day 13| Daily Cost: $20000.00
+----------------------------------------
+Team Illinois is at Michigan St.
+Team Indiana is at Michigan
+Team Iowa is at Michigan St.
+Team Maryland is at Indiana
+Team Michigan is at Michigan
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan
+Away team: Indiana
+----------------------------------------
+Day 14| Daily Cost: $10333.33
+----------------------------------------
+Team Illinois is at Michigan St.
+Team Indiana is at Michigan
+Team Iowa is at Michigan St.
+Team Maryland is at Indiana
+Team Michigan is at Michigan St.
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan St.
+Away team: Michigan
+----------------------------------------
+Day 15| Daily Cost: $10333.33
+----------------------------------------
+Team Illinois is at Michigan St.
+Team Indiana is at Michigan St.
+Team Iowa is at Michigan St.
+Team Maryland is at Indiana
+Team Michigan is at Michigan St.
+Team Michigan St. is at Michigan St.
+~~~~~~~~~~~~~~~~~~~~~~
+Matchup: 
+Home team: Michigan St.
+Away team: Indiana
+----------------------------------------
+++++++++++++++++++++++++++++++
+Total Cost = $238000.00
+++++++++++++++++++++++++++++++
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TEAMWISE SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+***********************************
+Team Illinois
+***********************************
+Day 1
+~~~~
+Stays at Illinois
+----------------------------------
+Day 2 [Match Day!]
+~~~~
+Stays at Illinois
+----------------------------------
+Day 3
+~~~~
+Stays at Illinois
+----------------------------------
+Day 4
+~~~~
+Stays at Illinois
+----------------------------------
+Day 5 [Match Day!]
+~~~~
+Stays at Illinois
+----------------------------------
+Day 6
+~~~~
+Stays at Illinois
+----------------------------------
+Day 7 [Match Day!]
+~~~~
+Travels from Illinois to Indiana
+Cost incurred: $13333.33
+----------------------------------
+Day 8 [Match Day!]
+~~~~
+Travels from Indiana to Michigan
+Cost incurred: $20000.00
+----------------------------------
+Day 9
+~~~~
+Travels from Michigan to Michigan St.
+Cost incurred: $10333.33
+----------------------------------
+Day 10 [Match Day!]
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 11
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 12
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 13
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 14
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 15
+~~~~
+Stays at Michigan St.
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $43666.67
+++++++++++++++++++++++++++++++
+
+***********************************
+Team Indiana
+***********************************
+Day 1
+~~~~
+Stays at Indiana
+----------------------------------
+Day 2
+~~~~
+Stays at Indiana
+----------------------------------
+Day 3
+~~~~
+Stays at Indiana
+----------------------------------
+Day 4
+~~~~
+Stays at Indiana
+----------------------------------
+Day 5
+~~~~
+Stays at Indiana
+----------------------------------
+Day 6 [Match Day!]
+~~~~
+Stays at Indiana
+----------------------------------
+Day 7 [Match Day!]
+~~~~
+Stays at Indiana
+----------------------------------
+Day 8
+~~~~
+Stays at Indiana
+----------------------------------
+Day 9
+~~~~
+Stays at Indiana
+----------------------------------
+Day 10
+~~~~
+Stays at Indiana
+----------------------------------
+Day 11
+~~~~
+Stays at Indiana
+----------------------------------
+Day 12 [Match Day!]
+~~~~
+Stays at Indiana
+----------------------------------
+Day 13 [Match Day!]
+~~~~
+Travels from Indiana to Michigan
+Cost incurred: $20000.00
+----------------------------------
+Day 14
+~~~~
+Stays at Michigan
+----------------------------------
+Day 15 [Match Day!]
+~~~~
+Travels from Michigan to Michigan St.
+Cost incurred: $10333.33
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $30333.33
+++++++++++++++++++++++++++++++
+
+***********************************
+Team Iowa
+***********************************
+Day 1
+~~~~
+Travels from Iowa to Illinois
+Cost incurred: $17333.33
+----------------------------------
+Day 2 [Match Day!]
+~~~~
+Stays at Illinois
+----------------------------------
+Day 3
+~~~~
+Stays at Illinois
+----------------------------------
+Day 4
+~~~~
+Stays at Illinois
+----------------------------------
+Day 5
+~~~~
+Stays at Illinois
+----------------------------------
+Day 6 [Match Day!]
+~~~~
+Travels from Illinois to Indiana
+Cost incurred: $13333.33
+----------------------------------
+Day 7
+~~~~
+Travels from Indiana to Michigan
+Cost incurred: $20000.00
+----------------------------------
+Day 8
+~~~~
+Stays at Michigan
+----------------------------------
+Day 9 [Match Day!]
+~~~~
+Stays at Michigan
+----------------------------------
+Day 10
+~~~~
+Stays at Michigan
+----------------------------------
+Day 11 [Match Day!]
+~~~~
+Travels from Michigan to Michigan St.
+Cost incurred: $10333.33
+----------------------------------
+Day 12
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 13
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 14
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 15
+~~~~
+Stays at Michigan St.
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $61000.00
+++++++++++++++++++++++++++++++
+
+***********************************
+Team Maryland
+***********************************
+Day 1 [Match Day!]
+~~~~
+Travels from Maryland to Michigan
+Cost incurred: $28000.00
+----------------------------------
+Day 2
+~~~~
+Travels from Michigan to Michigan St.
+Cost incurred: $10333.33
+----------------------------------
+Day 3
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 4 [Match Day!]
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 5 [Match Day!]
+~~~~
+Travels from Michigan St. to Illinois
+Cost incurred: $20333.33
+----------------------------------
+Day 6
+~~~~
+Stays at Illinois
+----------------------------------
+Day 7
+~~~~
+Stays at Illinois
+----------------------------------
+Day 8
+~~~~
+Stays at Illinois
+----------------------------------
+Day 9
+~~~~
+Stays at Illinois
+----------------------------------
+Day 10
+~~~~
+Stays at Illinois
+----------------------------------
+Day 11
+~~~~
+Stays at Illinois
+----------------------------------
+Day 12 [Match Day!]
+~~~~
+Travels from Illinois to Indiana
+Cost incurred: $13333.33
+----------------------------------
+Day 13
+~~~~
+Stays at Indiana
+----------------------------------
+Day 14
+~~~~
+Stays at Indiana
+----------------------------------
+Day 15
+~~~~
+Stays at Indiana
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $72000.00
+++++++++++++++++++++++++++++++
+
+***********************************
+Team Michigan
+***********************************
+Day 1 [Match Day!]
+~~~~
+Stays at Michigan
+----------------------------------
+Day 2
+~~~~
+Stays at Michigan
+----------------------------------
+Day 3 [Match Day!]
+~~~~
+Stays at Michigan
+----------------------------------
+Day 4
+~~~~
+Stays at Michigan
+----------------------------------
+Day 5
+~~~~
+Stays at Michigan
+----------------------------------
+Day 6
+~~~~
+Stays at Michigan
+----------------------------------
+Day 7
+~~~~
+Stays at Michigan
+----------------------------------
+Day 8 [Match Day!]
+~~~~
+Stays at Michigan
+----------------------------------
+Day 9 [Match Day!]
+~~~~
+Stays at Michigan
+----------------------------------
+Day 10
+~~~~
+Stays at Michigan
+----------------------------------
+Day 11
+~~~~
+Stays at Michigan
+----------------------------------
+Day 12
+~~~~
+Stays at Michigan
+----------------------------------
+Day 13 [Match Day!]
+~~~~
+Stays at Michigan
+----------------------------------
+Day 14 [Match Day!]
+~~~~
+Travels from Michigan to Michigan St.
+Cost incurred: $10333.33
+----------------------------------
+Day 15
+~~~~
+Stays at Michigan St.
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $10333.33
+++++++++++++++++++++++++++++++
+
+***********************************
+Team Michigan St.
+***********************************
+Day 1
+~~~~
+Travels from Michigan St. to Michigan
+Cost incurred: $10333.33
+----------------------------------
+Day 2
+~~~~
+Stays at Michigan
+----------------------------------
+Day 3 [Match Day!]
+~~~~
+Stays at Michigan
+----------------------------------
+Day 4 [Match Day!]
+~~~~
+Travels from Michigan to Michigan St.
+Cost incurred: $10333.33
+----------------------------------
+Day 5
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 6
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 7
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 8
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 9
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 10 [Match Day!]
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 11 [Match Day!]
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 12
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 13
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 14 [Match Day!]
+~~~~
+Stays at Michigan St.
+----------------------------------
+Day 15 [Match Day!]
+~~~~
+Stays at Michigan St.
+----------------------------------
+++++++++++++++++++++++++++++++
+Total Team Cost = $20666.67
+++++++++++++++++++++++++++++++
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Total Tournament Cost = $238000.00
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

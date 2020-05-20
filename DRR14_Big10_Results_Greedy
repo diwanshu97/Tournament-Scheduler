@@ -1,0 +1,2172 @@
+######################################################################
+DOUBLE ROUND ROBIN
+######################################################################
+
+Academic license - for non-commercial use only
+Academic license - for non-commercial use only
+
+Final Status: OPTIMAL
+
+  7.050364 seconds (2.19 M allocations: 126.656 MiB, 0.28% gc time)
+Number of Teams: 14
+Greedy based Optimal Solution:
+****************************************
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TOURNAMENT SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Day 1: 
+	 Team Illinois is at Minnesota
+Day 1: 
+	 Team Indiana is at Maryland
+Day 2: 
+	 Team Michigan is at Illinois
+Day 3: 
+	 Team Nebraska is at Maryland
+Day 4: 
+	 Team Illinois is at Michigan
+Day 4: 
+	 Team Michigan St. is at Iowa
+Day 4: 
+	 Team Penn St. is at Ohio St.
+Day 4: 
+	 Team Rutgers is at Minnesota
+Day 5: 
+	 Team Illinois is at Michigan St.
+Day 5: 
+	 Team Maryland is at Minnesota
+Day 6: 
+	 Team Illinois is at Indiana
+Day 6: 
+	 Team Nebraska is at Iowa
+Day 6: 
+	 Team Ohio St. is at Rutgers
+Day 8: 
+	 Team Michigan is at Indiana
+Day 8: 
+	 Team Nebraska is at Michigan St.
+Day 8: 
+	 Team Ohio St. is at Minnesota
+Day 9: 
+	 Team Illinois is at Iowa
+Day 9: 
+	 Team Michigan St. is at Indiana
+Day 9: 
+	 Team Wisconsin is at Michigan
+Day 10: 
+	 Team Michigan is at Iowa
+Day 10: 
+	 Team Penn St. is at Illinois
+Day 10: 
+	 Team Purdue  is at Wisconsin
+Day 11: 
+	 Team Minnesota is at Penn St.
+Day 11: 
+	 Team Northwestern is at Indiana
+Day 12: 
+	 Team Purdue  is at Iowa
+Day 12: 
+	 Team Rutgers is at Illinois
+Day 13: 
+	 Team Northwestern is at Minnesota
+Day 14: 
+	 Team Minnesota is at Maryland
+Day 14: 
+	 Team Nebraska is at Illinois
+Day 14: 
+	 Team Ohio St. is at Indiana
+Day 14: 
+	 Team Penn St. is at Northwestern
+Day 14: 
+	 Team Wisconsin is at Iowa
+Day 16: 
+	 Team Michigan is at Minnesota
+Day 16: 
+	 Team Northwestern is at Wisconsin
+Day 16: 
+	 Team Ohio St. is at Maryland
+Day 17: 
+	 Team Illinois is at Wisconsin
+Day 17: 
+	 Team Michigan is at Northwestern
+Day 17: 
+	 Team Ohio St. is at Nebraska
+Day 18: 
+	 Team Iowa is at Ohio St.
+Day 18: 
+	 Team Michigan is at Penn St.
+Day 18: 
+	 Team Nebraska is at Minnesota
+Day 18: 
+	 Team Rutgers is at Purdue 
+Day 19: 
+	 Team Northwestern is at Illinois
+Day 20: 
+	 Team Indiana is at Michigan
+Day 21: 
+	 Team Maryland is at Michigan
+Day 22: 
+	 Team Illinois is at Northwestern
+Day 22: 
+	 Team Michigan St. is at Penn St.
+Day 23: 
+	 Team Maryland is at Illinois
+Day 23: 
+	 Team Michigan is at Wisconsin
+Day 23: 
+	 Team Rutgers is at Northwestern
+Day 24: 
+	 Team Michigan is at Nebraska
+Day 24: 
+	 Team Michigan St. is at Wisconsin
+Day 24: 
+	 Team Ohio St. is at Illinois
+Day 26: 
+	 Team Rutgers is at Nebraska
+Day 26: 
+	 Team Wisconsin is at Michigan St.
+Day 28: 
+	 Team Indiana is at Northwestern
+Day 28: 
+	 Team Rutgers is at Iowa
+Day 30: 
+	 Team Michigan St. is at Maryland
+Day 30: 
+	 Team Minnesota is at Indiana
+Day 30: 
+	 Team Rutgers is at Michigan
+Day 30: 
+	 Team Wisconsin is at Illinois
+Day 31: 
+	 Team Wisconsin is at Indiana
+Day 32: 
+	 Team Michigan St. is at Michigan
+Day 32: 
+	 Team Wisconsin is at Ohio St.
+Day 33: 
+	 Team Michigan St. is at Ohio St.
+Day 33: 
+	 Team Penn St. is at Iowa
+Day 34: 
+	 Team Iowa is at Illinois
+Day 36: 
+	 Team Penn St. is at Michigan St.
+Day 37: 
+	 Team Indiana is at Rutgers
+Day 37: 
+	 Team Wisconsin is at Nebraska
+Day 38: 
+	 Team Iowa is at Michigan St.
+Day 38: 
+	 Team Maryland is at Indiana
+Day 38: 
+	 Team Purdue  is at Minnesota
+Day 38: 
+	 Team Rutgers is at Wisconsin
+Day 39: 
+	 Team Ohio St. is at Michigan St.
+Day 40: 
+	 Team Maryland is at Penn St.
+Day 40: 
+	 Team Michigan St. is at Purdue 
+Day 40: 
+	 Team Nebraska is at Indiana
+Day 42: 
+	 Team Indiana is at Wisconsin
+Day 42: 
+	 Team Northwestern is at Iowa
+Day 42: 
+	 Team Penn St. is at Nebraska
+Day 42: 
+	 Team Purdue  is at Maryland
+Day 43: 
+	 Team Nebraska is at Northwestern
+Day 44: 
+	 Team Northwestern is at Maryland
+Day 44: 
+	 Team Purdue  is at Penn St.
+Day 45: 
+	 Team Rutgers is at Ohio St.
+Day 46: 
+	 Team Illinois is at Maryland
+Day 46: 
+	 Team Iowa is at Rutgers
+Day 46: 
+	 Team Nebraska is at Penn St.
+Day 46: 
+	 Team Ohio St. is at Wisconsin
+Day 47: 
+	 Team Wisconsin is at Purdue 
+Day 48: 
+	 Team Michigan is at Purdue 
+Day 49: 
+	 Team Iowa is at Maryland
+Day 50: 
+	 Team Indiana is at Ohio St.
+Day 50: 
+	 Team Iowa is at Minnesota
+Day 50: 
+	 Team Nebraska is at Rutgers
+Day 51: 
+	 Team Northwestern is at Rutgers
+Day 52: 
+	 Team Minnesota is at Northwestern
+Day 53: 
+	 Team Purdue  is at Nebraska
+Day 54: 
+	 Team Illinois is at Ohio St.
+Day 54: 
+	 Team Indiana is at Michigan St.
+Day 54: 
+	 Team Minnesota is at Iowa
+Day 54: 
+	 Team Penn St. is at Purdue 
+Day 54: 
+	 Team Wisconsin is at Rutgers
+Day 56: 
+	 Team Maryland is at Northwestern
+Day 56: 
+	 Team Minnesota is at Ohio St.
+Day 56: 
+	 Team Purdue  is at Rutgers
+Day 57: 
+	 Team Michigan St. is at Nebraska
+Day 57: 
+	 Team Northwestern is at Ohio St.
+Day 57: 
+	 Team Penn St. is at Minnesota
+Day 58: 
+	 Team Michigan St. is at Illinois
+Day 58: 
+	 Team Purdue  is at Indiana
+Day 58: 
+	 Team Wisconsin is at Minnesota
+Day 60: 
+	 Team Penn St. is at Rutgers
+Day 60: 
+	 Team Purdue  is at Illinois
+Day 60: 
+	 Team Wisconsin is at Northwestern
+Day 61: 
+	 Team Michigan St. is at Minnesota
+Day 62: 
+	 Team Indiana is at Iowa
+Day 62: 
+	 Team Maryland is at Nebraska
+Day 62: 
+	 Team Minnesota is at Rutgers
+Day 63: 
+	 Team Purdue  is at Michigan St.
+Day 63: 
+	 Team Wisconsin is at Penn St.
+Day 64: 
+	 Team Iowa is at Indiana
+Day 64: 
+	 Team Minnesota is at Michigan
+Day 65: 
+	 Team Nebraska is at Michigan
+Day 66: 
+	 Team Ohio St. is at Michigan
+Day 66: 
+	 Team Rutgers is at Maryland
+Day 68: 
+	 Team Maryland is at Purdue 
+Day 68: 
+	 Team Minnesota is at Wisconsin
+Day 68: 
+	 Team Northwestern is at Nebraska
+Day 68: 
+	 Team Rutgers is at Penn St.
+Day 69: 
+	 Team Illinois is at Rutgers
+Day 70: 
+	 Team Michigan is at Maryland
+Day 70: 
+	 Team Northwestern is at Purdue 
+Day 70: 
+	 Team Penn St. is at Indiana
+Day 72: 
+	 Team Indiana is at Purdue 
+Day 72: 
+	 Team Minnesota is at Illinois
+Day 72: 
+	 Team Ohio St. is at Penn St.
+Day 74: 
+	 Team Indiana is at Penn St.
+Day 75: 
+	 Team Maryland is at Ohio St.
+Day 76: 
+	 Team Maryland is at Iowa
+Day 76: 
+	 Team Rutgers is at Michigan St.
+Day 77: 
+	 Team Iowa is at Nebraska
+Day 77: 
+	 Team Michigan is at Rutgers
+Day 78: 
+	 Team Wisconsin is at Maryland
+Day 79: 
+	 Team Iowa is at Northwestern
+Day 79: 
+	 Team Penn St. is at Wisconsin
+Day 80: 
+	 Team Illinois is at Nebraska
+Day 80: 
+	 Team Penn St. is at Maryland
+Day 81: 
+	 Team Nebraska is at Wisconsin
+Day 83: 
+	 Team Indiana is at Nebraska
+Day 83: 
+	 Team Iowa is at Purdue 
+Day 83: 
+	 Team Maryland is at Wisconsin
+Day 84: 
+	 Team Indiana is at Minnesota
+Day 84: 
+	 Team Michigan St. is at Northwestern
+Day 84: 
+	 Team Nebraska is at Ohio St.
+Day 85: 
+	 Team Minnesota is at Purdue 
+Day 85: 
+	 Team Penn St. is at Michigan
+Day 86: 
+	 Team Michigan is at Ohio St.
+Day 86: 
+	 Team Purdue  is at Northwestern
+Day 86: 
+	 Team Rutgers is at Indiana
+Day 87: 
+	 Team Indiana is at Illinois
+Day 87: 
+	 Team Iowa is at Michigan
+Day 88: 
+	 Team Northwestern is at Michigan St.
+Day 89: 
+	 Team Illinois is at Purdue 
+Day 89: 
+	 Team Maryland is at Rutgers
+Day 89: 
+	 Team Northwestern is at Michigan
+Day 90: 
+	 Team Minnesota is at Nebraska
+Day 91: 
+	 Team Northwestern is at Penn St.
+Day 91: 
+	 Team Purdue  is at Michigan
+Day 92: 
+	 Team Michigan is at Michigan St.
+Day 93: 
+	 Team Minnesota is at Michigan St.
+Day 93: 
+	 Team Ohio St. is at Northwestern
+Day 94: 
+	 Team Purdue  is at Ohio St.
+Day 95: 
+	 Team Nebraska is at Purdue 
+Day 95: 
+	 Team Ohio St. is at Iowa
+Day 96: 
+	 Team Illinois is at Penn St.
+Day 96: 
+	 Team Maryland is at Michigan St.
+Day 97: 
+	 Team Iowa is at Penn St.
+Day 97: 
+	 Team Michigan St. is at Rutgers
+Day 97: 
+	 Team Ohio St. is at Purdue 
+Day 99: 
+	 Team Iowa is at Wisconsin
+****************************************
+Total Cost = $6739166.70
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+TEAMWISE SCHEDULE
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+Team Illinois
+------------
+Day 1
+------------
+Travels from Illinois to Minnesota
+Cost Incurred: 28000.00
+------------
+Day 2
+------------
+Travels from Minnesota to Illinois
+Cost Incurred: 21000.00
+------------
+Day 4
+------------
+Travels from Illinois to Michigan
+Cost Incurred: 42000.00
+------------
+Day 5
+------------
+Travels from Michigan to Michigan St.
+Cost Incurred: 45333.33
+------------
+Day 6
+------------
+Travels from Michigan St. to Indiana
+Cost Incurred: 13333.33
+------------
+Day 9
+------------
+Travels from Indiana to Iowa
+Cost Incurred: 17333.33
+------------
+Day 10
+------------
+Travels from Iowa to Illinois
+Cost Incurred: 36666.67
+------------
+Day 12
+------------
+Stays at Illinois
+------------
+Day 14
+------------
+Stays at Illinois
+------------
+Day 17
+------------
+Travels from Illinois to Wisconsin
+Cost Incurred: 18000.00
+------------
+Day 19
+------------
+Travels from Wisconsin to Illinois
+Cost Incurred: 18000.00
+------------
+Day 22
+------------
+Travels from Illinois to Northwestern
+Cost Incurred: 27333.33
+------------
+Day 23
+------------
+Travels from Northwestern to Illinois
+Cost Incurred: 36666.67
+------------
+Day 24
+------------
+Stays at Illinois
+------------
+Day 30
+------------
+Stays at Illinois
+------------
+Day 34
+------------
+Stays at Illinois
+------------
+Day 46
+------------
+Travels from Illinois to Maryland
+Cost Incurred: 69000.00
+------------
+Day 54
+------------
+Travels from Maryland to Ohio St.
+Cost Incurred: 21000.00
+------------
+Day 58
+------------
+Travels from Ohio St. to Illinois
+Cost Incurred: 32333.33
+------------
+Day 60
+------------
+Stays at Illinois
+------------
+Day 69
+------------
+Travels from Illinois to Rutgers
+Cost Incurred: 52000.00
+------------
+Day 72
+------------
+Travels from Rutgers to Illinois
+Cost Incurred: 21000.00
+------------
+Day 80
+------------
+Travels from Illinois to Nebraska
+Cost Incurred: 29000.00
+------------
+Day 87
+------------
+Travels from Nebraska to Illinois
+Cost Incurred: 36666.67
+------------
+Day 89
+------------
+Travels from Illinois to Purdue 
+Cost Incurred: 11333.33
+------------
+Day 96
+------------
+Travels from Purdue  to Penn St.
+Cost Incurred: 30333.33
+----------------------------------------
+Total Cost = $404000.00
+****************************************
+Team Indiana
+------------
+Day 1
+------------
+Travels from Indiana to Maryland
+Cost Incurred: 32333.33
+------------
+Day 6
+------------
+Travels from Maryland to Indiana
+Cost Incurred: 13333.33
+------------
+Day 8
+------------
+Stays at Indiana
+------------
+Day 9
+------------
+Stays at Indiana
+------------
+Day 11
+------------
+Stays at Indiana
+------------
+Day 14
+------------
+Stays at Indiana
+------------
+Day 20
+------------
+Travels from Indiana to Michigan
+Cost Incurred: 52666.67
+------------
+Day 28
+------------
+Travels from Michigan to Northwestern
+Cost Incurred: 31000.00
+------------
+Day 30
+------------
+Travels from Northwestern to Indiana
+Cost Incurred: 53000.00
+------------
+Day 31
+------------
+Stays at Indiana
+------------
+Day 37
+------------
+Travels from Indiana to Rutgers
+Cost Incurred: 74666.67
+------------
+Day 38
+------------
+Travels from Rutgers to Indiana
+Cost Incurred: 32333.33
+------------
+Day 40
+------------
+Stays at Indiana
+------------
+Day 42
+------------
+Travels from Indiana to Wisconsin
+Cost Incurred: 49000.00
+------------
+Day 50
+------------
+Travels from Wisconsin to Ohio St.
+Cost Incurred: 43666.66
+------------
+Day 54
+------------
+Travels from Ohio St. to Michigan St.
+Cost Incurred: 35000.00
+------------
+Day 58
+------------
+Travels from Michigan St. to Indiana
+Cost Incurred: 49666.67
+------------
+Day 62
+------------
+Travels from Indiana to Iowa
+Cost Incurred: 22666.67
+------------
+Day 64
+------------
+Travels from Iowa to Indiana
+Cost Incurred: 45333.33
+------------
+Day 70
+------------
+Stays at Indiana
+------------
+Day 72
+------------
+Travels from Indiana to Purdue 
+Cost Incurred: 12000.00
+------------
+Day 74
+------------
+Travels from Purdue  to Penn St.
+Cost Incurred: 30333.33
+------------
+Day 83
+------------
+Travels from Penn St. to Nebraska
+Cost Incurred: 72666.67
+------------
+Day 84
+------------
+Travels from Nebraska to Minnesota
+Cost Incurred: 68000.00
+------------
+Day 86
+------------
+Travels from Minnesota to Indiana
+Cost Incurred: 50666.67
+------------
+Day 87
+------------
+Travels from Indiana to Illinois
+Cost Incurred: 36666.67
+----------------------------------------
+Total Cost = $560666.67
+****************************************
+Team Iowa
+------------
+Day 4
+------------
+Stays at Iowa
+------------
+Day 6
+------------
+Stays at Iowa
+------------
+Day 9
+------------
+Stays at Iowa
+------------
+Day 10
+------------
+Stays at Iowa
+------------
+Day 12
+------------
+Stays at Iowa
+------------
+Day 14
+------------
+Stays at Iowa
+------------
+Day 18
+------------
+Travels from Iowa to Ohio St.
+Cost Incurred: 60666.67
+------------
+Day 28
+------------
+Travels from Ohio St. to Iowa
+Cost Incurred: 21000.00
+------------
+Day 33
+------------
+Stays at Iowa
+------------
+Day 34
+------------
+Travels from Iowa to Illinois
+Cost Incurred: 17333.33
+------------
+Day 38
+------------
+Travels from Illinois to Michigan St.
+Cost Incurred: 20333.33
+------------
+Day 42
+------------
+Travels from Michigan St. to Iowa
+Cost Incurred: 32000.00
+------------
+Day 46
+------------
+Travels from Iowa to Rutgers
+Cost Incurred: 77666.67
+------------
+Day 49
+------------
+Travels from Rutgers to Maryland
+Cost Incurred: 48000.00
+------------
+Day 50
+------------
+Travels from Maryland to Minnesota
+Cost Incurred: 46333.33
+------------
+Day 54
+------------
+Travels from Minnesota to Iowa
+Cost Incurred: 36666.67
+------------
+Day 62
+------------
+Stays at Iowa
+------------
+Day 64
+------------
+Travels from Iowa to Indiana
+Cost Incurred: 45333.33
+------------
+Day 76
+------------
+Travels from Indiana to Iowa
+Cost Incurred: 61000.00
+------------
+Day 77
+------------
+Travels from Iowa to Nebraska
+Cost Incurred: 21000.00
+------------
+Day 79
+------------
+Travels from Nebraska to Northwestern
+Cost Incurred: 30333.33
+------------
+Day 83
+------------
+Travels from Northwestern to Purdue 
+Cost Incurred: 13000.00
+------------
+Day 87
+------------
+Travels from Purdue  to Michigan
+Cost Incurred: 17666.67
+------------
+Day 95
+------------
+Travels from Michigan to Iowa
+Cost Incurred: 44333.34
+------------
+Day 97
+------------
+Travels from Iowa to Penn St.
+Cost Incurred: 35333.33
+------------
+Day 99
+------------
+Travels from Penn St. to Wisconsin
+Cost Incurred: 14666.67
+----------------------------------------
+Total Cost = $447666.67
+****************************************
+Team Maryland
+------------
+Day 1
+------------
+Stays at Maryland
+------------
+Day 3
+------------
+Stays at Maryland
+------------
+Day 5
+------------
+Travels from Maryland to Minnesota
+Cost Incurred: 43666.67
+------------
+Day 14
+------------
+Travels from Minnesota to Maryland
+Cost Incurred: 43666.67
+------------
+Day 16
+------------
+Stays at Maryland
+------------
+Day 21
+------------
+Travels from Maryland to Michigan
+Cost Incurred: 28000.00
+------------
+Day 23
+------------
+Travels from Michigan to Illinois
+Cost Incurred: 36666.67
+------------
+Day 30
+------------
+Travels from Illinois to Maryland
+Cost Incurred: 14333.33
+------------
+Day 38
+------------
+Travels from Maryland to Indiana
+Cost Incurred: 32333.33
+------------
+Day 40
+------------
+Travels from Indiana to Penn St.
+Cost Incurred: 55666.67
+------------
+Day 42
+------------
+Travels from Penn St. to Maryland
+Cost Incurred: 65666.66
+------------
+Day 44
+------------
+Stays at Maryland
+------------
+Day 46
+------------
+Stays at Maryland
+------------
+Day 49
+------------
+Stays at Maryland
+------------
+Day 56
+------------
+Travels from Maryland to Northwestern
+Cost Incurred: 17000.00
+------------
+Day 62
+------------
+Travels from Northwestern to Nebraska
+Cost Incurred: 83000.01
+------------
+Day 66
+------------
+Travels from Nebraska to Maryland
+Cost Incurred: 51666.67
+------------
+Day 68
+------------
+Travels from Maryland to Purdue 
+Cost Incurred: 44666.66
+------------
+Day 70
+------------
+Travels from Purdue  to Maryland
+Cost Incurred: 28000.00
+------------
+Day 75
+------------
+Travels from Maryland to Ohio St.
+Cost Incurred: 39333.34
+------------
+Day 76
+------------
+Travels from Ohio St. to Iowa
+Cost Incurred: 61000.00
+------------
+Day 78
+------------
+Travels from Iowa to Maryland
+Cost Incurred: 74333.33
+------------
+Day 80
+------------
+Stays at Maryland
+------------
+Day 83
+------------
+Travels from Maryland to Wisconsin
+Cost Incurred: 14666.67
+------------
+Day 89
+------------
+Travels from Wisconsin to Rutgers
+Cost Incurred: 72000.00
+------------
+Day 96
+------------
+Travels from Rutgers to Michigan St.
+Cost Incurred: 33666.67
+----------------------------------------
+Total Cost = $561666.67
+****************************************
+Team Michigan
+------------
+Day 2
+------------
+Travels from Michigan to Illinois
+Cost Incurred: 21000.00
+------------
+Day 4
+------------
+Travels from Illinois to Michigan
+Cost Incurred: 42000.00
+------------
+Day 8
+------------
+Travels from Michigan to Indiana
+Cost Incurred: 13333.33
+------------
+Day 9
+------------
+Travels from Indiana to Michigan
+Cost Incurred: 41666.67
+------------
+Day 10
+------------
+Travels from Michigan to Iowa
+Cost Incurred: 22666.67
+------------
+Day 16
+------------
+Travels from Iowa to Minnesota
+Cost Incurred: 19333.33
+------------
+Day 17
+------------
+Travels from Minnesota to Northwestern
+Cost Incurred: 38333.33
+------------
+Day 18
+------------
+Travels from Northwestern to Penn St.
+Cost Incurred: 76666.66
+------------
+Day 20
+------------
+Travels from Penn St. to Michigan
+Cost Incurred: 52666.67
+------------
+Day 21
+------------
+Stays at Michigan
+------------
+Day 23
+------------
+Travels from Michigan to Wisconsin
+Cost Incurred: 21666.67
+------------
+Day 24
+------------
+Travels from Wisconsin to Nebraska
+Cost Incurred: 57666.67
+------------
+Day 30
+------------
+Travels from Nebraska to Michigan
+Cost Incurred: 27000.00
+------------
+Day 32
+------------
+Stays at Michigan
+------------
+Day 48
+------------
+Travels from Michigan to Purdue 
+Cost Incurred: 48000.00
+------------
+Day 64
+------------
+Travels from Purdue  to Michigan
+Cost Incurred: 49000.00
+------------
+Day 65
+------------
+Stays at Michigan
+------------
+Day 66
+------------
+Stays at Michigan
+------------
+Day 70
+------------
+Travels from Michigan to Maryland
+Cost Incurred: 28000.00
+------------
+Day 77
+------------
+Travels from Maryland to Rutgers
+Cost Incurred: 49333.33
+------------
+Day 85
+------------
+Travels from Rutgers to Michigan
+Cost Incurred: 51000.00
+------------
+Day 86
+------------
+Travels from Michigan to Ohio St.
+Cost Incurred: 31333.34
+------------
+Day 87
+------------
+Travels from Ohio St. to Michigan
+Cost Incurred: 17666.67
+------------
+Day 89
+------------
+Stays at Michigan
+------------
+Day 91
+------------
+Stays at Michigan
+------------
+Day 92
+------------
+Travels from Michigan to Michigan St.
+Cost Incurred: 10333.33
+----------------------------------------
+Total Cost = $437666.67
+****************************************
+Team Michigan St.
+------------
+Day 4
+------------
+Travels from Michigan St. to Iowa
+Cost Incurred: 25000.00
+------------
+Day 5
+------------
+Travels from Iowa to Michigan St.
+Cost Incurred: 45333.33
+------------
+Day 8
+------------
+Stays at Michigan St.
+------------
+Day 9
+------------
+Travels from Michigan St. to Indiana
+Cost Incurred: 22666.67
+------------
+Day 22
+------------
+Travels from Indiana to Penn St.
+Cost Incurred: 72000.00
+------------
+Day 24
+------------
+Travels from Penn St. to Wisconsin
+Cost Incurred: 37000.00
+------------
+Day 26
+------------
+Travels from Wisconsin to Michigan St.
+Cost Incurred: 45000.00
+------------
+Day 30
+------------
+Travels from Michigan St. to Maryland
+Cost Incurred: 14333.33
+------------
+Day 32
+------------
+Travels from Maryland to Michigan
+Cost Incurred: 28000.00
+------------
+Day 33
+------------
+Travels from Michigan to Ohio St.
+Cost Incurred: 15666.67
+------------
+Day 36
+------------
+Travels from Ohio St. to Michigan St.
+Cost Incurred: 35666.67
+------------
+Day 38
+------------
+Stays at Michigan St.
+------------
+Day 39
+------------
+Stays at Michigan St.
+------------
+Day 40
+------------
+Travels from Michigan St. to Purdue 
+Cost Incurred: 46666.67
+------------
+Day 54
+------------
+Travels from Purdue  to Michigan St.
+Cost Incurred: 35000.00
+------------
+Day 57
+------------
+Travels from Michigan St. to Nebraska
+Cost Incurred: 85000.00
+------------
+Day 58
+------------
+Travels from Nebraska to Illinois
+Cost Incurred: 32333.33
+------------
+Day 61
+------------
+Travels from Illinois to Minnesota
+Cost Incurred: 28000.00
+------------
+Day 63
+------------
+Travels from Minnesota to Michigan St.
+Cost Incurred: 40666.67
+------------
+Day 76
+------------
+Stays at Michigan St.
+------------
+Day 84
+------------
+Travels from Michigan St. to Northwestern
+Cost Incurred: 15666.67
+------------
+Day 88
+------------
+Travels from Northwestern to Michigan St.
+Cost Incurred: 15666.67
+------------
+Day 92
+------------
+Stays at Michigan St.
+------------
+Day 93
+------------
+Stays at Michigan St.
+------------
+Day 96
+------------
+Stays at Michigan St.
+------------
+Day 97
+------------
+Travels from Michigan St. to Rutgers
+Cost Incurred: 33666.67
+----------------------------------------
+Total Cost = $456000.00
+****************************************
+Team Minnesota
+------------
+Day 1
+------------
+Stays at Minnesota
+------------
+Day 4
+------------
+Stays at Minnesota
+------------
+Day 5
+------------
+Stays at Minnesota
+------------
+Day 8
+------------
+Stays at Minnesota
+------------
+Day 11
+------------
+Travels from Minnesota to Penn St.
+Cost Incurred: 76666.66
+------------
+Day 13
+------------
+Travels from Penn St. to Minnesota
+Cost Incurred: 24666.67
+------------
+Day 14
+------------
+Travels from Minnesota to Maryland
+Cost Incurred: 43666.67
+------------
+Day 16
+------------
+Travels from Maryland to Minnesota
+Cost Incurred: 19333.33
+------------
+Day 18
+------------
+Stays at Minnesota
+------------
+Day 30
+------------
+Travels from Minnesota to Indiana
+Cost Incurred: 53000.00
+------------
+Day 38
+------------
+Travels from Indiana to Minnesota
+Cost Incurred: 52333.33
+------------
+Day 50
+------------
+Stays at Minnesota
+------------
+Day 52
+------------
+Travels from Minnesota to Northwestern
+Cost Incurred: 38333.33
+------------
+Day 54
+------------
+Travels from Northwestern to Iowa
+Cost Incurred: 36666.67
+------------
+Day 56
+------------
+Travels from Iowa to Ohio St.
+Cost Incurred: 29666.67
+------------
+Day 57
+------------
+Travels from Ohio St. to Minnesota
+Cost Incurred: 60333.33
+------------
+Day 58
+------------
+Stays at Minnesota
+------------
+Day 61
+------------
+Stays at Minnesota
+------------
+Day 62
+------------
+Travels from Minnesota to Rutgers
+Cost Incurred: 46333.33
+------------
+Day 64
+------------
+Travels from Rutgers to Michigan
+Cost Incurred: 49000.00
+------------
+Day 68
+------------
+Travels from Michigan to Wisconsin
+Cost Incurred: 35333.33
+------------
+Day 72
+------------
+Travels from Wisconsin to Illinois
+Cost Incurred: 21000.00
+------------
+Day 84
+------------
+Travels from Illinois to Minnesota
+Cost Incurred: 68000.00
+------------
+Day 85
+------------
+Travels from Minnesota to Purdue 
+Cost Incurred: 11333.33
+------------
+Day 90
+------------
+Travels from Purdue  to Nebraska
+Cost Incurred: 59333.33
+------------
+Day 93
+------------
+Travels from Nebraska to Michigan St.
+Cost Incurred: 17333.33
+----------------------------------------
+Total Cost = $517666.66
+****************************************
+Team Nebraska
+------------
+Day 3
+------------
+Travels from Nebraska to Maryland
+Cost Incurred: 48333.33
+------------
+Day 6
+------------
+Travels from Maryland to Iowa
+Cost Incurred: 21000.00
+------------
+Day 8
+------------
+Travels from Iowa to Michigan St.
+Cost Incurred: 50000.00
+------------
+Day 14
+------------
+Travels from Michigan St. to Illinois
+Cost Incurred: 17333.33
+------------
+Day 17
+------------
+Travels from Illinois to Nebraska
+Cost Incurred: 52666.67
+------------
+Day 18
+------------
+Travels from Nebraska to Minnesota
+Cost Incurred: 28000.00
+------------
+Day 24
+------------
+Travels from Minnesota to Nebraska
+Cost Incurred: 57666.67
+------------
+Day 26
+------------
+Stays at Nebraska
+------------
+Day 37
+------------
+Stays at Nebraska
+------------
+Day 40
+------------
+Travels from Nebraska to Indiana
+Cost Incurred: 34000.00
+------------
+Day 42
+------------
+Travels from Indiana to Nebraska
+Cost Incurred: 16166.67
+------------
+Day 43
+------------
+Travels from Nebraska to Northwestern
+Cost Incurred: 44000.00
+------------
+Day 46
+------------
+Travels from Northwestern to Penn St.
+Cost Incurred: 45666.67
+------------
+Day 50
+------------
+Travels from Penn St. to Rutgers
+Cost Incurred: 16333.33
+------------
+Day 53
+------------
+Travels from Rutgers to Nebraska
+Cost Incurred: 85000.00
+------------
+Day 57
+------------
+Stays at Nebraska
+------------
+Day 62
+------------
+Stays at Nebraska
+------------
+Day 65
+------------
+Travels from Nebraska to Michigan
+Cost Incurred: 31333.34
+------------
+Day 68
+------------
+Travels from Michigan to Nebraska
+Cost Incurred: 83000.01
+------------
+Day 77
+------------
+Stays at Nebraska
+------------
+Day 80
+------------
+Stays at Nebraska
+------------
+Day 81
+------------
+Travels from Nebraska to Wisconsin
+Cost Incurred: 40666.67
+------------
+Day 83
+------------
+Travels from Wisconsin to Nebraska
+Cost Incurred: 72666.67
+------------
+Day 84
+------------
+Travels from Nebraska to Ohio St.
+Cost Incurred: 42333.33
+------------
+Day 90
+------------
+Travels from Ohio St. to Nebraska
+Cost Incurred: 59333.33
+------------
+Day 95
+------------
+Travels from Nebraska to Purdue 
+Cost Incurred: 36000.00
+----------------------------------------
+Total Cost = $455000.00
+****************************************
+Team Northwestern
+------------
+Day 11
+------------
+Travels from Northwestern to Indiana
+Cost Incurred: 17000.00
+------------
+Day 13
+------------
+Travels from Indiana to Minnesota
+Cost Incurred: 24666.67
+------------
+Day 14
+------------
+Travels from Minnesota to Northwestern
+Cost Incurred: 13666.67
+------------
+Day 16
+------------
+Travels from Northwestern to Wisconsin
+Cost Incurred: 13666.67
+------------
+Day 17
+------------
+Travels from Wisconsin to Northwestern
+Cost Incurred: 38333.33
+------------
+Day 19
+------------
+Travels from Northwestern to Illinois
+Cost Incurred: 18000.00
+------------
+Day 22
+------------
+Travels from Illinois to Northwestern
+Cost Incurred: 27333.33
+------------
+Day 23
+------------
+Stays at Northwestern
+------------
+Day 28
+------------
+Stays at Northwestern
+------------
+Day 42
+------------
+Travels from Northwestern to Iowa
+Cost Incurred: 32000.00
+------------
+Day 43
+------------
+Travels from Iowa to Northwestern
+Cost Incurred: 44000.00
+------------
+Day 44
+------------
+Travels from Northwestern to Maryland
+Cost Incurred: 67333.33
+------------
+Day 51
+------------
+Travels from Maryland to Rutgers
+Cost Incurred: 38333.33
+------------
+Day 52
+------------
+Travels from Rutgers to Northwestern
+Cost Incurred: 38333.33
+------------
+Day 56
+------------
+Stays at Northwestern
+------------
+Day 57
+------------
+Travels from Northwestern to Ohio St.
+Cost Incurred: 21000.00
+------------
+Day 60
+------------
+Travels from Ohio St. to Northwestern
+Cost Incurred: 24666.67
+------------
+Day 68
+------------
+Travels from Northwestern to Nebraska
+Cost Incurred: 83000.01
+------------
+Day 70
+------------
+Travels from Nebraska to Purdue 
+Cost Incurred: 43666.67
+------------
+Day 79
+------------
+Travels from Purdue  to Northwestern
+Cost Incurred: 30333.33
+------------
+Day 84
+------------
+Stays at Northwestern
+------------
+Day 86
+------------
+Stays at Northwestern
+------------
+Day 88
+------------
+Travels from Northwestern to Michigan St.
+Cost Incurred: 15666.67
+------------
+Day 89
+------------
+Travels from Michigan St. to Michigan
+Cost Incurred: 17333.33
+------------
+Day 91
+------------
+Travels from Michigan to Penn St.
+Cost Incurred: 55000.00
+------------
+Day 93
+------------
+Travels from Penn St. to Northwestern
+Cost Incurred: 49333.33
+----------------------------------------
+Total Cost = $446666.68
+****************************************
+Team Ohio St.
+------------
+Day 4
+------------
+Stays at Ohio St.
+------------
+Day 6
+------------
+Travels from Ohio St. to Rutgers
+Cost Incurred: 29333.33
+------------
+Day 8
+------------
+Travels from Rutgers to Minnesota
+Cost Incurred: 46333.33
+------------
+Day 14
+------------
+Travels from Minnesota to Indiana
+Cost Incurred: 33000.00
+------------
+Day 16
+------------
+Travels from Indiana to Maryland
+Cost Incurred: 43666.67
+------------
+Day 17
+------------
+Travels from Maryland to Nebraska
+Cost Incurred: 52666.67
+------------
+Day 18
+------------
+Travels from Nebraska to Ohio St.
+Cost Incurred: 60666.67
+------------
+Day 24
+------------
+Travels from Ohio St. to Illinois
+Cost Incurred: 28000.00
+------------
+Day 32
+------------
+Travels from Illinois to Ohio St.
+Cost Incurred: 42000.00
+------------
+Day 33
+------------
+Stays at Ohio St.
+------------
+Day 39
+------------
+Travels from Ohio St. to Michigan St.
+Cost Incurred: 17666.67
+------------
+Day 45
+------------
+Travels from Michigan St. to Ohio St.
+Cost Incurred: 29666.67
+------------
+Day 46
+------------
+Travels from Ohio St. to Wisconsin
+Cost Incurred: 53333.33
+------------
+Day 50
+------------
+Travels from Wisconsin to Ohio St.
+Cost Incurred: 43666.66
+------------
+Day 54
+------------
+Stays at Ohio St.
+------------
+Day 56
+------------
+Stays at Ohio St.
+------------
+Day 57
+------------
+Stays at Ohio St.
+------------
+Day 66
+------------
+Travels from Ohio St. to Michigan
+Cost Incurred: 15666.67
+------------
+Day 72
+------------
+Travels from Michigan to Penn St.
+Cost Incurred: 23000.00
+------------
+Day 75
+------------
+Travels from Penn St. to Ohio St.
+Cost Incurred: 39333.34
+------------
+Day 84
+------------
+Stays at Ohio St.
+------------
+Day 86
+------------
+Stays at Ohio St.
+------------
+Day 93
+------------
+Travels from Ohio St. to Northwestern
+Cost Incurred: 49333.33
+------------
+Day 94
+------------
+Travels from Northwestern to Ohio St.
+Cost Incurred: 36666.67
+------------
+Day 95
+------------
+Travels from Ohio St. to Iowa
+Cost Incurred: 44333.34
+------------
+Day 97
+------------
+Travels from Iowa to Purdue 
+Cost Incurred: 20000.00
+----------------------------------------
+Total Cost = $456333.33
+****************************************
+Team Penn St.
+------------
+Day 4
+------------
+Travels from Penn St. to Ohio St.
+Cost Incurred: 21000.00
+------------
+Day 10
+------------
+Travels from Ohio St. to Illinois
+Cost Incurred: 36666.67
+------------
+Day 11
+------------
+Travels from Illinois to Penn St.
+Cost Incurred: 76666.66
+------------
+Day 14
+------------
+Travels from Penn St. to Northwestern
+Cost Incurred: 13666.67
+------------
+Day 18
+------------
+Travels from Northwestern to Penn St.
+Cost Incurred: 76666.66
+------------
+Day 22
+------------
+Stays at Penn St.
+------------
+Day 33
+------------
+Travels from Penn St. to Iowa
+Cost Incurred: 35333.33
+------------
+Day 36
+------------
+Travels from Iowa to Michigan St.
+Cost Incurred: 35666.67
+------------
+Day 40
+------------
+Travels from Michigan St. to Penn St.
+Cost Incurred: 55666.67
+------------
+Day 42
+------------
+Travels from Penn St. to Nebraska
+Cost Incurred: 16166.67
+------------
+Day 44
+------------
+Travels from Nebraska to Penn St.
+Cost Incurred: 76000.00
+------------
+Day 46
+------------
+Stays at Penn St.
+------------
+Day 54
+------------
+Travels from Penn St. to Purdue 
+Cost Incurred: 30333.33
+------------
+Day 57
+------------
+Travels from Purdue  to Minnesota
+Cost Incurred: 60333.33
+------------
+Day 60
+------------
+Travels from Minnesota to Rutgers
+Cost Incurred: 33000.00
+------------
+Day 63
+------------
+Travels from Rutgers to Penn St.
+Cost Incurred: 48333.33
+------------
+Day 68
+------------
+Stays at Penn St.
+------------
+Day 70
+------------
+Travels from Penn St. to Indiana
+Cost Incurred: 30333.33
+------------
+Day 72
+------------
+Travels from Indiana to Penn St.
+Cost Incurred: 23000.00
+------------
+Day 74
+------------
+Stays at Penn St.
+------------
+Day 79
+------------
+Travels from Penn St. to Wisconsin
+Cost Incurred: 50666.67
+------------
+Day 80
+------------
+Travels from Wisconsin to Maryland
+Cost Incurred: 52666.66
+------------
+Day 85
+------------
+Travels from Maryland to Michigan
+Cost Incurred: 51000.00
+------------
+Day 91
+------------
+Travels from Michigan to Penn St.
+Cost Incurred: 55000.00
+------------
+Day 96
+------------
+Stays at Penn St.
+------------
+Day 97
+------------
+Stays at Penn St.
+----------------------------------------
+Total Cost = $466833.33
+****************************************
+Team Purdue 
+------------
+Day 10
+------------
+Travels from Purdue  to Wisconsin
+Cost Incurred: 18333.33
+------------
+Day 12
+------------
+Travels from Wisconsin to Iowa
+Cost Incurred: 14666.67
+------------
+Day 18
+------------
+Travels from Iowa to Purdue 
+Cost Incurred: 31333.33
+------------
+Day 38
+------------
+Travels from Purdue  to Minnesota
+Cost Incurred: 52333.33
+------------
+Day 40
+------------
+Travels from Minnesota to Purdue 
+Cost Incurred: 46666.67
+------------
+Day 42
+------------
+Travels from Purdue  to Maryland
+Cost Incurred: 65666.66
+------------
+Day 44
+------------
+Travels from Maryland to Penn St.
+Cost Incurred: 76000.00
+------------
+Day 47
+------------
+Travels from Penn St. to Purdue 
+Cost Incurred: 48666.67
+------------
+Day 48
+------------
+Stays at Purdue 
+------------
+Day 53
+------------
+Travels from Purdue  to Nebraska
+Cost Incurred: 85000.00
+------------
+Day 54
+------------
+Travels from Nebraska to Purdue 
+Cost Incurred: 30333.33
+------------
+Day 56
+------------
+Travels from Purdue  to Rutgers
+Cost Incurred: 33000.00
+------------
+Day 58
+------------
+Travels from Rutgers to Indiana
+Cost Incurred: 49666.67
+------------
+Day 60
+------------
+Travels from Indiana to Illinois
+Cost Incurred: 13333.33
+------------
+Day 63
+------------
+Travels from Illinois to Michigan St.
+Cost Incurred: 40666.67
+------------
+Day 68
+------------
+Travels from Michigan St. to Purdue 
+Cost Incurred: 44666.66
+------------
+Day 70
+------------
+Stays at Purdue 
+------------
+Day 72
+------------
+Stays at Purdue 
+------------
+Day 83
+------------
+Stays at Purdue 
+------------
+Day 85
+------------
+Stays at Purdue 
+------------
+Day 86
+------------
+Travels from Purdue  to Northwestern
+Cost Incurred: 13000.00
+------------
+Day 89
+------------
+Travels from Northwestern to Purdue 
+Cost Incurred: 11333.33
+------------
+Day 91
+------------
+Travels from Purdue  to Michigan
+Cost Incurred: 17666.67
+------------
+Day 94
+------------
+Travels from Michigan to Ohio St.
+Cost Incurred: 36666.67
+------------
+Day 95
+------------
+Travels from Ohio St. to Purdue 
+Cost Incurred: 36000.00
+------------
+Day 97
+------------
+Stays at Purdue 
+----------------------------------------
+Total Cost = $516000.00
+****************************************
+Team Rutgers
+------------
+Day 4
+------------
+Travels from Rutgers to Minnesota
+Cost Incurred: 46333.33
+------------
+Day 6
+------------
+Travels from Minnesota to Rutgers
+Cost Incurred: 29333.33
+------------
+Day 12
+------------
+Travels from Rutgers to Illinois
+Cost Incurred: 35666.67
+------------
+Day 18
+------------
+Travels from Illinois to Purdue 
+Cost Incurred: 31333.33
+------------
+Day 23
+------------
+Travels from Purdue  to Northwestern
+Cost Incurred: 27333.33
+------------
+Day 26
+------------
+Travels from Northwestern to Nebraska
+Cost Incurred: 52666.67
+------------
+Day 28
+------------
+Travels from Nebraska to Iowa
+Cost Incurred: 21000.00
+------------
+Day 30
+------------
+Travels from Iowa to Michigan
+Cost Incurred: 27000.00
+------------
+Day 37
+------------
+Travels from Michigan to Rutgers
+Cost Incurred: 74666.67
+------------
+Day 38
+------------
+Travels from Rutgers to Wisconsin
+Cost Incurred: 41333.33
+------------
+Day 45
+------------
+Travels from Wisconsin to Ohio St.
+Cost Incurred: 29666.67
+------------
+Day 46
+------------
+Travels from Ohio St. to Rutgers
+Cost Incurred: 77666.67
+------------
+Day 50
+------------
+Stays at Rutgers
+------------
+Day 51
+------------
+Stays at Rutgers
+------------
+Day 54
+------------
+Stays at Rutgers
+------------
+Day 56
+------------
+Stays at Rutgers
+------------
+Day 60
+------------
+Stays at Rutgers
+------------
+Day 62
+------------
+Stays at Rutgers
+------------
+Day 66
+------------
+Travels from Rutgers to Maryland
+Cost Incurred: 51666.67
+------------
+Day 68
+------------
+Travels from Maryland to Penn St.
+Cost Incurred: 30666.67
+------------
+Day 69
+------------
+Travels from Penn St. to Rutgers
+Cost Incurred: 52000.00
+------------
+Day 76
+------------
+Travels from Rutgers to Michigan St.
+Cost Incurred: 45666.67
+------------
+Day 77
+------------
+Travels from Michigan St. to Rutgers
+Cost Incurred: 49333.33
+------------
+Day 86
+------------
+Travels from Rutgers to Indiana
+Cost Incurred: 50666.67
+------------
+Day 89
+------------
+Travels from Indiana to Rutgers
+Cost Incurred: 72000.00
+------------
+Day 97
+------------
+Stays at Rutgers
+----------------------------------------
+Total Cost = $491000.01
+****************************************
+Team Wisconsin
+------------
+Day 9
+------------
+Travels from Wisconsin to Michigan
+Cost Incurred: 41666.67
+------------
+Day 10
+------------
+Travels from Michigan to Wisconsin
+Cost Incurred: 18333.33
+------------
+Day 14
+------------
+Travels from Wisconsin to Iowa
+Cost Incurred: 14666.67
+------------
+Day 16
+------------
+Travels from Iowa to Wisconsin
+Cost Incurred: 13666.67
+------------
+Day 17
+------------
+Stays at Wisconsin
+------------
+Day 23
+------------
+Stays at Wisconsin
+------------
+Day 24
+------------
+Stays at Wisconsin
+------------
+Day 26
+------------
+Travels from Wisconsin to Michigan St.
+Cost Incurred: 45000.00
+------------
+Day 30
+------------
+Travels from Michigan St. to Illinois
+Cost Incurred: 18000.00
+------------
+Day 31
+------------
+Travels from Illinois to Indiana
+Cost Incurred: 13333.33
+------------
+Day 32
+------------
+Travels from Indiana to Ohio St.
+Cost Incurred: 42000.00
+------------
+Day 37
+------------
+Travels from Ohio St. to Nebraska
+Cost Incurred: 35666.67
+------------
+Day 38
+------------
+Travels from Nebraska to Wisconsin
+Cost Incurred: 41333.33
+------------
+Day 42
+------------
+Stays at Wisconsin
+------------
+Day 46
+------------
+Stays at Wisconsin
+------------
+Day 47
+------------
+Travels from Wisconsin to Purdue 
+Cost Incurred: 48666.67
+------------
+Day 54
+------------
+Travels from Purdue  to Rutgers
+Cost Incurred: 38333.33
+------------
+Day 58
+------------
+Travels from Rutgers to Minnesota
+Cost Incurred: 77333.34
+------------
+Day 60
+------------
+Travels from Minnesota to Northwestern
+Cost Incurred: 24666.67
+------------
+Day 63
+------------
+Travels from Northwestern to Penn St.
+Cost Incurred: 48333.33
+------------
+Day 68
+------------
+Travels from Penn St. to Wisconsin
+Cost Incurred: 35333.33
+------------
+Day 78
+------------
+Travels from Wisconsin to Maryland
+Cost Incurred: 74333.33
+------------
+Day 79
+------------
+Travels from Maryland to Wisconsin
+Cost Incurred: 50666.67
+------------
+Day 81
+------------
+Stays at Wisconsin
+------------
+Day 83
+------------
+Stays at Wisconsin
+------------
+Day 99
+------------
+Stays at Wisconsin
+----------------------------------------
+Total Cost = $522000.01
+****************************************
+Total Tournament Cost = $6739166.70
